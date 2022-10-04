@@ -1,16 +1,17 @@
-# zoom_app
+# Zoom AgroTech FMX (APP Mobile)
 
-A new Flutter project.
+Aplicativo para auxiliar no processo de gestão e tomadas de decisões de fazendas com foco na bovinocultura de corte. A aplicação contém meios para registro de animais, pessoas, propriedades e outros fatores determinantes na rotina da pecuaria, e apresenta no formato de dashboard Power BI os principais índices zootécnicos com base nas informações cadastradas.
 
-## Getting Started
+## Link do Dashboard
+- [Zoom AgroTech FMX: PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTlkZjFmMzEtM2U0Yi00M2I3LWI0NzUtOWYyMjYwNTI4ODllIiwidCI6IjZlNmFkNmYyLTg4NDgtNDVmYy05MGRhLWQyZmE4OTQwZGVmNCJ9)
 
-This project is a starting point for a Flutter application.
+## Link para download do Aplicativo (.apk):
+- [App Android (.apk)](https://c.tenor.com/iyJ0r-hK4gYAAAAC/em-breve-glitch.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Desenvolvedores
+### Ewerton Moura Santos
+- Administrar o Banco de Dados e Desenvolver o Dashboard da aplicação com os KPIs solicitados pelo cliente.
+- [LinkedIn - Ewerton](https://www.linkedin.com/in/ewerton-moura-2b4341187/)
+### Patrick Neri de Oliveira
+- Gestão da Equipe, definição de metas, acompanhamento do progresso das atividades. Desenvolver o APP Mobile.
+- [LinkedIn - Patrick](https://www.linkedin.com/in/patrick-neri-de-oliveira/)
