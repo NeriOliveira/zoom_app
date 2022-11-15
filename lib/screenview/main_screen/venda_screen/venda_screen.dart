@@ -34,7 +34,7 @@ class _VendaScreenState extends State<VendaScreen> {
       child: WebView(
         javascriptMode: JavascriptMode.unrestricted,
         gestureNavigationEnabled: true,
-        initialUrl: 'https://www.pecuaria.erural.net/ra%C3%A7a-nelore?utm_source=google-ads&utm_medium=cpc&utm_campaign=NELORE-perpetua&utm_term=nelore&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfIGpzcvKfgKkLWyoyov-c0zGFcXVF3eHBi1A5mdbqupRud6x0HPjYwaAiN2EALw_wcB',
+        initialUrl: 'https://example.workwithplus.com/LiveDemo_Hudson/servlet/com.demo.home',
       ),
     );
   }
