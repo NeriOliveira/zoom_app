@@ -12,6 +12,8 @@ class DashboardScreen extends StatefulWidget {
 
 class _DashboardScreenState extends State<DashboardScreen> {
 
+  late WebViewController webViewController;
+
   @override
   void initState() {
     super.initState();
